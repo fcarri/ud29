@@ -1,0 +1,23 @@
+
+
+table, th, td {
+    border: 1px solid blue;
+    border-collapse: collapse;
+  }
+  th:nth-child(1)
+  {
+    background-color: rgb(233, 240, 235);
+    color:black;
+  }
+  tD:nth-child(1)
+  {
+    background-color: rgb(204, 192, 17);
+    color:black;
+    text-align: center;
+  }
+  tD:nth-child(2)
+  {
+    background-color: rgb(204, 192, 17);
+    color:black;
+    text-align: center;
+  }
